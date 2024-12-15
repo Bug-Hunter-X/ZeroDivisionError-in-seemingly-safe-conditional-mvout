@@ -1,0 +1,1 @@
+This repository demonstrates a subtle Python bug involving a `ZeroDivisionError`. The error occurs in a function that attempts to handle a division by zero; however, the error still occurs when the input 'b' is also zero.  The solution provides a more robust approach to avoid this error.
